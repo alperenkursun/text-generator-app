@@ -4,7 +4,8 @@ HTML - CSS - JS - React - Redux App
 
 ---
 
-<!--
-[See The Project]()
+[See The Project](https://aktextgeneratorapp.surge.sh/)
 
-![tgaimg]() -->
+![tgaimg](tgaimg.png)
+
+[Patika](https://academy.patika.dev/tr/@alpk)
